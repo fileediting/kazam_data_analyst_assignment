@@ -1,1 +1,2 @@
-# kazam_data_analyst_assignment
+# Assignment for Data Analyst Role 
+## Solution
