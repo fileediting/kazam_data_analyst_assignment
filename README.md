@@ -8,6 +8,15 @@ with any visualisation/wrangling tool (preferred Power Query) except google
 sheets and microsoft excel.*
 
 ### Task - 2
+*Make a copy of the link [here](https://docs.google.com/spreadsheets/d/1PeLfnz26veXEp4Hx3KqUa0qix2bH_e3bg3Xx19gSpa8/edit#gid=0) to solve the other sheets (Sheet2, Sheet3,
+Sheet4) for achieving “Desired Result” sheet format. Constraints to solution
+are mentioned below: 
+a. Only use formulae to complete the task, no copy pasting is allowed.  
+b. The formulae should only be used in one of the sheets (Sheet2, Sheet3,
+Sheet4).  
+c. Candidates able to get the “Desired Result” by putting in the formula
+in just one cell would get the preference.*
+
 ### Task - 3
 *Please use python to wrangle the following*
 | Date       | Devices                 | Issues                                  | Organisation | Pending |
