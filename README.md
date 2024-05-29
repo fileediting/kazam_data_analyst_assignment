@@ -10,3 +10,4 @@
 
 
 **Output**
+![Task-3-output](../img/task-3-output.png)
