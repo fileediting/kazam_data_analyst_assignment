@@ -1,5 +1,13 @@
 # Assignment for Data Analyst Role 
 ## Solution
+### Task - 1
+*Please provide steps to convert an epoch Timestamp to  
+a. Datetime value  
+b. Date value  
+with any visualisation/wrangling tool (preferred Power Query) except google
+sheets and microsoft excel.*
+
+### Task - 2
 ### Task - 3
 *Please use python to wrangle the following*
 | Date       | Devices                 | Issues                                  | Organisation | Pending |
@@ -65,3 +73,5 @@ print(df)
 <p align="">
   <img src="https://github.com/fileediting/kazam_data_analyst_assignment/blob/main/img/Task-3-output.png" alt="Task-3-output">
 </p>
+
+### Task - 4
