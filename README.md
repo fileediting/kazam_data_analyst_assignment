@@ -84,3 +84,7 @@ print(df)
 </p>
 
 ### Task - 4
+*Build a dashboard in a visualisation tool of your choice which highlights
+various KPIs for at least five departments.  
+a. You can choose the visualisations, number of pages, departments and
+KPIs as per your wish.*
