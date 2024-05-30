@@ -109,19 +109,23 @@ a. You can choose the visualisations, number of pages, departments and
 KPIs as per your wish.*  
 **Dataset Source link**  
 [task-4](https://docs.google.com/spreadsheets/d/1S-ITrKb1nvGGlSAHyHtvRCDbaQUm9_5srty3j03frbs/edit?usp=sharing)  
-**Power BI file**
+**Power BI file**  
 [Task-4](https://github.com/fileediting/kazam_data_analyst_assignment/blob/main/file/Task-4.pbix)
 
 **Output**
+* IT DEPARTMENT DASHBOARD
 <p align="">
   <img src="https://github.com/fileediting/kazam_data_analyst_assignment/blob/main/img/t41.png" alt="Task-4-1">
-</p>
+</p>    
+    * FINANCE DEPARTMENT DASHBOARD
 <p align="">
   <img src="https://github.com/fileediting/kazam_data_analyst_assignment/blob/main/img/t42.png" alt="Task-4-2">
-</p>
+</p>   
+  * SALES DEPARTMENT DASHBOARD
 <p align="">
   <img src="https://github.com/fileediting/kazam_data_analyst_assignment/blob/main/img/t43.png" alt="Task-4-3">
-</p>
+</p>  
+  * ALL DEPARTMENT DASHBOARD
 <p align="">
   <img src="https://github.com/fileediting/kazam_data_analyst_assignment/blob/main/img/t44.png" alt="Task-4-4">
 </p>
