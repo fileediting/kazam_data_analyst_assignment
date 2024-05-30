@@ -17,6 +17,25 @@ Sheet4).
 c. Candidates able to get the “Desired Result” by putting in the formula
 in just one cell would get the preference.*
 
+**Formula**
+````
+=VLOOKUP(B1,Sheet3!A:B,2,False())
+=VLOOKUP(C1,Sheet2!A:B,2,FALSE())
+````
+****Source-link****  
+[Assignment for Data Analyst Role](https://docs.google.com/spreadsheets/d/1W_ipe0fSnLbRnjgb-u8Fcn_Wy__OnX_7Dyo4eZO_sqs/edit?usp=sharing)
+
+**Output**
+<p align="center">
+  <img src="https://github.com/fileediting/kazam_data_analyst_assignment/blob/main/img/t1.png" alt="Task-2-1">
+</p>
+<p align="center">
+  <img src="https://github.com/fileediting/kazam_data_analyst_assignment/blob/main/img/t2.png" alt="Task-2-2">
+</p>
+<p align="center">
+  <img src="https://github.com/fileediting/kazam_data_analyst_assignment/blob/main/img/t3.png" alt="Task-2-3">
+</p>
+
 ### Task - 3
 *Please use python to wrangle the following*
 | Date       | Devices                 | Issues                                  | Organisation | Pending |
