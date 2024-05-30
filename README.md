@@ -110,7 +110,7 @@ KPIs as per your wish.*
 **Dataset Source link**  
 [task-4](https://docs.google.com/spreadsheets/d/1S-ITrKb1nvGGlSAHyHtvRCDbaQUm9_5srty3j03frbs/edit?usp=sharing)  
 **Power BI file**
-[task-4](https://github.com/fileediting/kazam_data_analyst_assignment/blob/main/file/task4" alt="Task-4-1")
+[Task-4](https://github.com/fileediting/kazam_data_analyst_assignment/blob/main/file/Task-4.pbix)
 
 **Output**
 <p align="">
